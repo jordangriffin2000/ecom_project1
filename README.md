@@ -16,8 +16,6 @@ Search funtionality, Paginator, CSS and more.
 
 ![Screenshot 2024-03-03 162008](https://github.com/jordangriffin2000/ecom_project1/assets/104874552/ca8c7760-3275-43a8-b116-b319ab2ab91a)
 
-![Screenshot 2024-03-03 162307](https://github.com/jordangriffin2000/ecom_project1/assets/104874552/7ff1af8d-20af-4f1a-9fa7-6e4c8a5ae033)
-
 ![Screenshot 2024-03-03 162455](https://github.com/jordangriffin2000/ecom_project1/assets/104874552/bba2d851-6dc0-47fd-a44e-1ece0b0a22b9)
 
 ![Screenshot 2024-03-03 162821](https://github.com/jordangriffin2000/ecom_project1/assets/104874552/750a4dae-2378-44bc-b814-8b16ed420796)
